@@ -2,11 +2,8 @@ scratchpad/build/
 apps/node-build/
 node_modules/
 coverage/
-ts3.4/
 build/
-dist/
-cjs/
-es/
+.idea
 
 tsBuildInfo.json
 flamegraph.html
